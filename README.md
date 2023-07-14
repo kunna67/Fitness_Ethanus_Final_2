@@ -1,3 +1,3 @@
 # Fitness_Ethanus
 
-Live :
+Live : https://drab-pink-wombat-suit.cyclic.app
